@@ -1,0 +1,211 @@
+.employee-login-page {
+  background-color: #fdfdfd;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+/* .employee-login-page .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+} */
+
+.employee-login-page .rectangle {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.employee-login-page .overlap {
+  position: absolute;
+  width: 499px;
+  height: 716px;
+  top: 100px;
+  left: 860px;
+  background-image: url(./img/rectangle-7.svg);
+  background-size: 100% 100%;
+}
+
+.employee-login-page .text-wrapper {
+  position: absolute;
+  top: 220px;
+  left: 40px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.employee-login-page .text-wrapper-2 {
+  position: absolute;
+  top: 308px;
+  left: 40px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.employee-login-page .text-wrapper-3 {
+  position: absolute;
+  top: 392px;
+  left: 289px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 500;
+  color: #96cebc;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.employee-login-page .text-wrapper-4 {
+  position: absolute;
+  top: 79px;
+  left: 40px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.employee-login-page .don-t-have-an {
+  position: absolute;
+  top: 182px;
+  left: 40px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.employee-login-page .span {
+  font-weight: 600;
+  color: #000000;
+}
+
+.employee-login-page .text-wrapper-5 {
+  font-weight: 600;
+  color: #96cebc;
+}
+
+.employee-login-page .text-wrapper-6 {
+  font-weight: 500;
+  color: #96cebc;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+
+a {
+  color: #96cebc;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #62897d;
+}
+
+
+.employee-login-page .rectangle-2 {
+  position: absolute;
+  width: 391px;
+  height: 49px;
+  top: 252px;
+  left: 40px;
+  border-radius: 12px;
+  border: 0px solid;
+  border-color: #ffffff;
+}
+
+.employee-login-page .rectangle-3 {
+  position: absolute;
+  width: 391px;
+  height: 49px;
+  top: 340px;
+  left: 40px;
+  border-radius: 12px;
+  border: 0px solid;
+  border-color: #ffffff;
+}
+
+.employee-login-page .group {
+  position: absolute;
+  width: 321px;
+  height: 49px;
+  top: 462px;
+  left: 88px;
+}
+
+.employee-login-page .overlap-group {
+  position: relative;
+  width: 319px;
+  height: 49px;
+  background-color: #829acc;
+  border-radius: 12px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.employee-login-page .text-wrapper-7 {
+  position: absolute;
+  top: 10px;
+  left: 137px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.employee-login-page .group-2 {
+  position: absolute;
+  width: 172px;
+  height: 27px;
+  top: 393px;
+  left: 40px;
+}
+
+.employee-login-page .text-wrapper-8 {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.employee-login-page .rectangle-4 {
+  position: absolute;
+  width: 22px;
+  height: 20px;
+  top: 3px;
+  left: -1px;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #000000;
+}
