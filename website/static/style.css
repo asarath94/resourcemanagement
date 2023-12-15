@@ -105,24 +105,24 @@
 
 .employee-login-page .text-wrapper-5 {
   font-weight: 600;
-  color: #96cebc;
+  color: #626262;
 }
 
 .employee-login-page .text-wrapper-6 {
   font-weight: 500;
-  color: #96cebc;
   font-size: 16px;
+  color: #545454;
   text-decoration: underline;
 }
 
 
 a {
-  color: #96cebc;
+  color: #545454;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #62897d;
+  color: #000000;
 }
 
 
@@ -154,6 +154,7 @@ a:hover {
   height: 49px;
   top: 462px;
   left: 88px;
+  color:blue;
 }
 
 .employee-login-page .overlap-group {
